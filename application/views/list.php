@@ -10,7 +10,7 @@
                 <div class="col-md-2"></div>
                 <div class="col-md-8">
 
-                    <h2>List of Registered users</h2>
+                    <h2>List of Registered users from githubs</h2>
                     <table class="table">
                         <tr>
                             <td colspan="5" align="right"><a href="<?php echo base_url(); ?>register/add">Add</a></td>
